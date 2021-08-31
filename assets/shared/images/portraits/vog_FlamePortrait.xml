@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="vog_FlamePortrait.png">
+<SubTexture name="Vog Portrait Enter instance 10000" x="0" y="0" width="429" height="429" frameX="550" frameY="-100" frameWidth="429" frameHeight="429" />
+<SubTexture name="Vog Portrait Enter instance 10001" x="429" y="0" width="429" height="429" frameX="500" frameY="-100" frameWidth="429" frameHeight="429" />
+<SubTexture name="Vog Portrait Enter instance 10002" x="429" y="0" width="429" height="429" frameX="500" frameY="-100" frameWidth="429" frameHeight="429" />
+<SubTexture name="Vog Portrait Enter instance 10003" x="858" y="0" width="429" height="429" frameX="450" frameY="-100" frameWidth="429" frameHeight="429" />
+<SubTexture name="Vog Portrait Enter instance 10004" x="858" y="0" width="429" height="429" frameX="450" frameY="-100" frameWidth="429" frameHeight="429" />
+<SubTexture name="Vog Portrait Enter instance 10005" x="1287" y="0" width="429" height="429" frameX="400" frameY="-100" frameWidth="429" frameHeight="429" />
+<SubTexture name="Vog Portrait Enter instance 10006" x="1287" y="0" width="429" height="429" frameX="400" frameY="-100" frameWidth="429" frameHeight="429" />
+<SubTexture name="Vog Portrait Enter instance 10007" x="1287" y="0" width="429" height="429" frameX="400" frameY="-100" frameWidth="429" frameHeight="429" />
+<SubTexture name="Vog Portrait Enter instance 10008" x="1287" y="0" width="429" height="429" frameX="400" frameY="-100" frameWidth="429" frameHeight="429" />
+</TextureAtlas>

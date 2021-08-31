@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="campaign_menu_vog.png">
+<SubTexture name="campaign_menu_vog Vog idle Black Lines0000" x="0" y="0" width="1613" height="1246" frameX="0" frameY="0" frameWidth="1613" frameHeight="1246" />
+<SubTexture name="campaign_menu_vog Vog idle Black Lines0001" x="1613" y="0" width="1613" height="1246" frameX="0" frameY="0" frameWidth="1613" frameHeight="1246" />
+<SubTexture name="campaign_menu_vog Vog idle Black Lines0002" x="3226" y="0" width="1613" height="1246" frameX="0" frameY="0" frameWidth="1613" frameHeight="1246" />
+<SubTexture name="campaign_menu_vog Vog idle Black Lines0003" x="4839" y="0" width="1613" height="1246" frameX="0" frameY="0" frameWidth="1613" frameHeight="1246" />
+<SubTexture name="campaign_menu_vog Vog idle Black Lines0004" x="0" y="1246" width="1613" height="1246" frameX="0" frameY="0" frameWidth="1613" frameHeight="1246" />
+<SubTexture name="campaign_menu_vog Vog idle Black Lines0005" x="1613" y="1246" width="1613" height="1246" frameX="0" frameY="0" frameWidth="1613" frameHeight="1246" />
+</TextureAtlas>
